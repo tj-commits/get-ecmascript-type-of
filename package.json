@@ -1,0 +1,57 @@
+{
+  "name": "get-ecmascript-type-of",
+  "version": "1.0.0",
+  "description": "Get the native type of a value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/get-ecmascript-type-of.git"
+  },
+  "keywords": [
+    "typeof",
+    "ecmascript",
+    "useful",
+    "simple",
+    "essential",
+    "clean",
+    "10x",
+    "powerful",
+    "10x-engineer",
+    "10x-bugs",
+    "insane",
+    "fun",
+    "hopefully-bugfree",
+    "please-star",
+    "10x",
+    "ten",
+    "is-ten",
+    "essential",
+    "not-on-fire",
+    "together",
+    "not-ruby",
+    "not-rust",
+    "is-odd",
+    "is-is-odd",
+    "clean",
+    "strong",
+    "beautiful"
+  ],
+  "author": "tj-commits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tj-commits/get-ecmascript-type-of/issues"
+  },
+  "homepage": "https://github.com/tj-commits/get-ecmascript-type-of#readme",
+  "dependencies": {
+    "is-array": "^1.0.1",
+    "is-equal-to": "^1.1.2",
+    "is-null": "^1.0.1",
+    "none": "^1.0.0",
+    "not": "^0.1.0",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6"
+  }
+}
